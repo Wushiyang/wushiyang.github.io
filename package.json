@@ -5,5 +5,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.8.0"
   }
 }

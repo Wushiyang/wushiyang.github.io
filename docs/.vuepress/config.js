@@ -1,5 +1,5 @@
 module.exports = {
     base: '/',
-    title: '偷笑ing的wiki',
-    description: '一个使用vuepress制作的偷笑ing的wiki'
+    title: 'Wushiyang\'s Blog',
+    description: 'Wushiyang的blog'
 }
